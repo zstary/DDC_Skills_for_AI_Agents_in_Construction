@@ -1,0 +1,12 @@
+# Personal Claude Code instructions (not shared)
+CLAUDE.local.md
+
+# >>> claude-plugin:impact-concur:gitignore:start <<<
+# Managed by claude-plugin 'impact-concur' — do not edit manually
+
+# MCP server configs (machine-specific paths); recreated by plugin on each install
+.mcp-servers/
+
+# Jira config symlink → plugin reference; recreated by plugin on each install
+.jira-config
+# >>> claude-plugin:impact-concur:gitignore:end <<<
