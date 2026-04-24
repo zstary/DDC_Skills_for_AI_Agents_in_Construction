@@ -189,7 +189,6 @@ n's rules)
 block covers this plugin's rules)
 # >>> claude-plugin:impact-java:gitignore:end <<<
 .worktrees/
-<<<<<<< HEAD
 s this plugin's rules)
 # >>> claude-plugin:impact-java:gitignore:end <<<
 n's rules)
@@ -203,5 +202,3 @@ block covers this plugin's rules)
 .worktrees/
 s/
 s/
-=======
->>>>>>> origin/main
