@@ -1,13 +1,7 @@
 {
-  "permissions": {
-    "allow": [
-      "Bash(git filter-repo:*)",
-      "Bash(git filter-branch --msg-filter 'sed \"\"/Co-Authored-By: Claude/d\"\"' --force -- --all)",
-      "Bash(git push:*)",
-      "Bash(git commit:*)",
-      "Bash(git add:*)",
-      "Bash(git reset:*)",
-      "Bash(git pull:*)"
-    ]
-  }
+  "sandbox": {
+    "enabled": false,
+    "autoAllowBashIfSandboxed": true
+  },
+  "model": "opus"
 }
