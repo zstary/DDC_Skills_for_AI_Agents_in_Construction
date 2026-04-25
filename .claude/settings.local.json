@@ -2,5 +2,6 @@
   "sandbox": {
     "enabled": false,
     "autoAllowBashIfSandboxed": true
-  }
+  },
+  "model": "opus"
 }
